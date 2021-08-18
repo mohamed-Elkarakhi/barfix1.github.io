@@ -1,2 +1,2 @@
 # barfix1.github.io
-mod3_solution
+module-3
